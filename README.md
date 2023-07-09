@@ -6,7 +6,7 @@
 
 As a beginner QA Engineer (manual), I am passionate about software testing and dedicated to building a career in quality assurance. With a solid foundation in testing principles and a commitment to continuous learning, I am eager to contribute to the development of reliable and high-quality software applications.
 
-- 📫 **Connect with me:** [![LinkedIn Badge](https://img.shields.io/badge/-@siarheipryimachuk-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/siarhei-pryimachuk-245a78228/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](woodgroup.by@mail.ru)
+- 📫 **Connect with me:** [![LinkedIn Badge](https://img.shields.io/badge/-@siarheipryimachuk-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/siarhei-pryimachuk-245a78228/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](woodgroup.by2012@gmail.com)
 
 ---
 
