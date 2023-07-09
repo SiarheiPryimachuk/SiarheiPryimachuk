@@ -94,6 +94,10 @@ As a beginner QA Engineer (manual), I am passionate about software testing and d
 ### :bulb: **_Some of my experience:_**
 
   + [MySQL](https://docs.google.com/document/d/1G_362mCBPhXi2yOryo7osiJs6Zjqdb88H0QC-PF-KHM/edit)
+  + [Test Case]()
+  + [Check list]()
+  + [Collection in the Postman]()
+  + [Bag report]()
 
 
 
