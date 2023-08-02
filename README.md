@@ -94,7 +94,7 @@ As a beginner QA Engineer (manual), I am passionate about software testing and d
 ### :bulb: **_Some of my experience:_**
 
   + [Test Plan](https://docs.google.com/document/d/1UeyOcCfStOvtOXWwxPtO5R47BY1oyWPMCNMx6VKdlCg/edit?usp=sharing)
-  + [Test Case]()
+  + [Test Case](https://docs.google.com/spreadsheets/d/1YKxu_NGiM9Serbw5HV-WvAjmFwneN-LFU_glYqAnT4M/edit?usp=sharing)
   + [Check list]()
   + [Bag report]()
   + [Collection in the Postman]()
