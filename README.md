@@ -97,7 +97,7 @@ As a beginner QA Engineer (manual), I am passionate about software testing and d
   + [Test Case](https://docs.google.com/spreadsheets/d/1YKxu_NGiM9Serbw5HV-WvAjmFwneN-LFU_glYqAnT4M/edit?usp=sharing)
   + [Check list](https://docs.google.com/spreadsheets/d/17451HWARUgcxWzwNOzZKDuJw_8EkxdKnJw_Z_B1Yod0/edit?usp=sharing)
   + [Bag report](https://docs.google.com/spreadsheets/d/1WIu3-KjTTrjRNQbLfRSlnBjgBQIOIb-QtuoTQ5zUl7g/edit?usp=sharing)
-  + [Collection in the Postman]()
+  + [Collection in the Postman](https://github.com/SiarheiPryimachuk/SiarheiPryimachuk/blob/main/PetStore-Pet.postman_collection.json)
   + [MySQL](https://docs.google.com/document/d/1G_362mCBPhXi2yOryo7osiJs6Zjqdb88H0QC-PF-KHM/edit)
 
 
