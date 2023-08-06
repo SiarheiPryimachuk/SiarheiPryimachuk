@@ -44,7 +44,7 @@ As a beginner QA Engineer (manual), I am passionate about software testing and d
 
 <div>
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
-  <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/postman-icon.svg" title="postman" alt="postman" width="40" height="40"/>&nbsp
+  <img src="https://yt3.googleusercontent.com/X-rhKMndFm9hT9wIaJns1StBfGbFdLTkAROwm4UZ3n9ucrBky5CFIeeZhSszFXBgQjItzCD0SA=s900-c-k-c0x00ffffff-no-rj" title="postman" alt="postman" width="40" height="40"/>&nbsp
   <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="soapui" alt="soapui" width="40" height="40"/>&nbsp
 </div>
 
